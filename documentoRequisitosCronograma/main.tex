@@ -1,0 +1,167 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{indentfirst}
+\usepackage{graphicx}
+\graphicspath{{./images/}}
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{colortbl}
+\usepackage{color}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{lastpage}
+\usepackage[hyphens]{url}
+\usepackage{hyperref}
+%\usepackage[brazilian,hyperpageref]{backref}
+%\usepackage[num,overcite,abnt-emphasize=bf]{abntex2cite}
+%%\usepackage[alf,abnt-emphasize=bf]{abntex2cite}
+%%\citebrackets()
+%\citebrackets[]
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  filecolor=magenta,      
+  urlcolor=blue,
+  citecolor=black,
+}
+
+%% Definindo o Autor e o título
+\newcommand{\prof}{Roberto Gil}
+\newcommand{\materia}{Engenharia de Software}
+
+\author{Ana Paula Merencia \\ Joana Pacheco Rolim \\ Milena Lucas dos Santos}
+\title{Documento de Requisitos e Cronograma Macro}
+\date{29 de junho de 2021}
+
+%% zera a pagina
+\fancyfoot[C]{}
+%% linhas no inicio e fim da página
+\renewcommand{\headrulewidth}{0.7pt}
+\renewcommand{\footrulewidth}{0.5pt}
+
+%% Definindo espaçamento
+%\titlespacing{\section}{0pt}{*2}{*1.1}
+%%\titlespacing{\subsection}{}{}{}
+
+%%Definindo formato de títulos
+%%\titleformat{comando}[formato, ex:wrap]{mudar fontes}{antes do separador}{separador}{depois do separador}[no fim do comando]
+\titleformat{\section}
+{\large}
+{\thesection}
+{.2cm}
+{}[\titlerule]
+
+\begin{document}
+\begin{titlepage}
+  \centering
+  \thispagestyle{fancy}
+
+  \begin{minipage}{0.4\textwidth}
+    \begin{flushleft}
+      \includegraphics[scale=0.6]{logoUnioeste.jpeg}\\[1.0 cm]
+    \end{flushleft}
+  \end{minipage}
+  \begin{minipage}{0.5\textwidth}
+    \begin{flushright}\large
+      \textsc{\LARGE\textbf{UNIOESTE}}\\
+      \vspace{1cm}
+      Universidade Estadual\\do Oeste do Paraná
+    \end{flushright}
+  \end{minipage}
+  %\rule{\textwidth}{.5pt}\\[2.0 cm]
+  \vspace*{4.5 cm}
+
+  {\huge\bfseries\thetitle}\\
+  \rule{\linewidth}{0.2 mm}\\[1.5 cm]
+  
+  \vspace{2cm}
+  \begin{minipage}[t]{0.4\textwidth}
+    \begin{flushleft}\large
+      \emph{Professor:}\\
+      \prof
+    \end{flushleft}
+  \end{minipage}
+  \begin{minipage}[t]{0.5\textwidth}
+
+    \begin{flushright}\large
+      \emph{Alunas:}\\
+      \theauthor
+    \end{flushright}
+
+  \end{minipage}\\[2 cm]
+  
+  \vfill\thedate
+  \end{titlepage}
+
+  \pagestyle{fancy}
+  \fancyfoot[L]{Matéria:~\materia}
+  \fancyfoot[R]{Prof:~\prof}
+  \fancyhead[L]{Alunas:~\theauthor}
+  \fancyhead[R]{página:~\thepage/\pageref{LastPage}}
+
+  \tableofcontents
+  \section{Necessidades}
+  \begin{itemize}
+  	\item NC01 - Apresentar ao cliente um menu organizado de cada prato, mostrando os ingredientes de cada prato.
+  	
+  	
+  	\item NC02 - Otimizar o tempo de escolha dos pratos
+  	
+  	\item NC03 -  Otimizar o tempo do pedido do cliente
+  	
+  	\item NC04 - Chamar atenção do cliente para o menu organizado por nacionalidade por meio de imagens dos pratos.
+  	
+  	\item NC05 - Disponibilizar um QRcode em cada mesa para os clientes terem acesso ao sistema para verem o cardápio e também  fazer o pedido, se for da preferência do cliente.
+  	
+  	\item NC06 - O cliente pode fazer o pedido estando no restaurante sem a necessidade do garçom.
+  \end{itemize}
+ 
+ 
+  \section{Requisitos Funcionais}
+  \begin{itemize}
+  	\item RF01 - Possibilitar um cardápio setorizado de acordo com as nacionalidades e a descrição dos ingredientes, apresentando imagens de cada prato.
+  	
+  	\item RF02 - Possibilitar ao cliente realizar o pedido pelo software no restaurante.
+  	
+  	\item RF03 - Possibilitar o cliente de realizar o pedido por delivery.
+  	
+  	\item RF04 - Possibilitar o cliente pedir o atendimento ao garçom.
+  	
+  	\item RF05 - O cliente tem acesso ao software por meio de um QR code no restaurante.
+  	
+  	\item RF06 - Para cada opção culinária deve ter entrada, prato principal e sobremesas.
+  	
+  	\item RF07 -  As opções culinárias dividem-se em nacionalidade culinária (brasileira e francesa), kids, vegetariana, bebidas e escolha do chef.
+  	
+  	\item RF08 - Possibilitar formas de pagamento quando delivery.
+  	
+  	\item RF09 - O cliente confirmando o pedido no software, o pedido é enviado para a cozinha por meio de um pdf ou e-mail.
+  \end{itemize}
+
+\section{Requisitos não Funcionais}
+  \begin{itemize}
+		\item RNF01 - O sistema deve enviar o pedido em um pdf para o WhatsApp.
+		
+		\item RNF02 - O sistema deverá funcionar em todos os navegadores de internet.
+		
+		\item RNF03 - O sistema deverá ter disponibilidade durante o funcionamento do restaurante.
+		
+		\item RNF04 - O sistema deverá se comunicar com o banco MySQL Server.
+  \end{itemize}
+
+
+\section{Requisitos Inversos}
+\begin{itemize}
+	\item RI01 - O cliente não poderá fazer o pagamento pelo software estando no restaurante.
+	\item RI02 - O software não realizará pagamento pelo cartão de débito.
+	
+	
+\end{itemize}
+
+
+\end{document}
