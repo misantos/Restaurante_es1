@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.6.28)  28 JUN 2021 19:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.6.28)  29 JUN 2021 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -710,7 +710,7 @@ LaTeX Info: Redefining \nameref on input line 59.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-<logoUnioeste.jpeg, id=20, 200.75pt x 200.75pt>
+<logoUnioeste.jpeg, id=28, 200.75pt x 200.75pt>
 File: logoUnioeste.jpeg Graphic file (type jpg)
 <use logoUnioeste.jpeg>
 Package pdftex.def Info: logoUnioeste.jpeg  used on input line 66.
@@ -756,57 +756,440 @@ Package Fancyhdr Warning: \headheight is too small (14.49998pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 138.
+(babel)             in language  on input line 135.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 138.
+(babel)             in language  on input line 135.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.138 
-       [1]
+l.135   	\item R
+                F05 - O cliente tem acesso ao software por meio de um QR cod...
+[1]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 146.
+(babel)             in language  on input line 148.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 158.
- 
+(babel)             in language  on input line 160.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 166.
+<cronograma.png, id=50, 776.14969pt x 199.49532pt>
+File: cronograma.png Graphic file (type png)
+<use cronograma.png>
+Package pdftex.def Info: cronograma.png  used on input line 172.
+(pdftex.def)             Requested size: 433.62pt x 111.45482pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 172--174
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 177.
+</home/milena/Documentos/ES1/telas/cardapio1.png, id=51, 1028.34187pt x 548.047
+5pt>
+File: /home/milena/Documentos/ES1/telas/cardapio1.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio1.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio1.png  used 
+on input line 182.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 182--184
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 185.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 185.
+[2]
+</home/milena/Documentos/ES1/telas/cardapio2.png, id=59, 1028.34187pt x 548.047
+5pt>
+File: /home/milena/Documentos/ES1/telas/cardapio2.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio2.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio2.png  used 
+on input line 191.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 191--193
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio3.png, id=60, 1028.34187pt x 548.047
+5pt>
+File: /home/milena/Documentos/ES1/telas/cardapio3.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio3.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio3.png  used 
+on input line 200.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 200--202
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio4.png, id=61, 1028.34187pt x 548.047
+5pt>
+File: /home/milena/Documentos/ES1/telas/cardapio4.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio4.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio4.png  used 
+on input line 208.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 208--210
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio5.png, id=62, 1028.34187pt x 548.047
+5pt>
+File: /home/milena/Documentos/ES1/telas/cardapio5.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio5.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio5.png  used 
+on input line 217.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 217--219
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio6.png, id=63, 1028.34187pt x 548.047
+5pt>
+File: /home/milena/Documentos/ES1/telas/cardapio6.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio6.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio6.png  used 
+on input line 226.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 226--228
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio7.png, id=64, 1028.34187pt x 548.047
+5pt>
+File: /home/milena/Documentos/ES1/telas/cardapio7.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio7.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio7.png  used 
+on input line 235.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 235--237
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio8.png, id=65, 1028.34187pt x 548.047
+5pt>
+File: /home/milena/Documentos/ES1/telas/cardapio8.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio8.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio8.png  used 
+on input line 244.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 244--246
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio9.png, id=66, 1028.34187pt x 548.047
+5pt>
+File: /home/milena/Documentos/ES1/telas/cardapio9.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio9.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio9.png  used 
+on input line 253.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 253--255
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio10.png, id=67, 1028.34187pt x 548.04
+75pt>
+File: /home/milena/Documentos/ES1/telas/cardapio10.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio10.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio10.png  used
+ on input line 262.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 262--264
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio11.png, id=68, 1028.34187pt x 548.04
+75pt>
+File: /home/milena/Documentos/ES1/telas/cardapio11.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio11.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio11.png  used
+ on input line 271.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 271--273
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio12.png, id=69, 1028.34187pt x 548.04
+75pt>
+File: /home/milena/Documentos/ES1/telas/cardapio12.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio12.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio12.png  used
+ on input line 280.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 280--282
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio13.png, id=70, 1028.34187pt x 548.04
+75pt>
+File: /home/milena/Documentos/ES1/telas/cardapio13.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio13.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio13.png  used
+ on input line 289.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 289--291
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/cardapio14.png, id=71, 1028.34187pt x 548.04
+75pt>
+File: /home/milena/Documentos/ES1/telas/cardapio14.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/cardapio14.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/cardapio14.png  used
+ on input line 298.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 298--300
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/contato1.png, id=72, 1028.34187pt x 548.0475
+pt>
+File: /home/milena/Documentos/ES1/telas/contato1.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/contato1.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/contato1.png  used o
+n input line 307.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 307--309
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/contato2.png, id=73, 1028.34187pt x 548.0475
+pt>
+File: /home/milena/Documentos/ES1/telas/contato2.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/contato2.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/contato2.png  used o
+n input line 316.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 316--318
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/inicio1.png, id=74, 1028.34187pt x 570.63188
+pt>
+File: /home/milena/Documentos/ES1/telas/inicio1.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/inicio1.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/inicio1.png  used on
+ input line 325.
+(pdftex.def)             Requested size: 433.62pt x 240.62154pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 325--327
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/inicio2.png, id=75, 1028.34187pt x 548.0475p
+t>
+File: /home/milena/Documentos/ES1/telas/inicio2.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/inicio2.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/inicio2.png  used on
+ input line 334.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 334--336
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/localizacao1.png, id=76, 1028.34187pt x 548.
+0475pt>
+File: /home/milena/Documentos/ES1/telas/localizacao1.png Graphic file (type png
+)
+<use /home/milena/Documentos/ES1/telas/localizacao1.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/localizacao1.png  us
+ed on input line 343.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 343--345
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/pedido1.png, id=77, 1028.34187pt x 548.0475p
+t>
+File: /home/milena/Documentos/ES1/telas/pedido1.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/pedido1.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/pedido1.png  used on
+ input line 352.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 352--354
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/pedido2.png, id=78, 1028.34187pt x 548.0475p
+t>
+File: /home/milena/Documentos/ES1/telas/pedido2.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/pedido2.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/pedido2.png  used on
+ input line 361.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 361--363
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/pedido3.png, id=79, 1028.34187pt x 548.0475p
+t>
+File: /home/milena/Documentos/ES1/telas/pedido3.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/pedido3.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/pedido3.png  used on
+ input line 370.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 370--372
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/sobre1.png, id=80, 1028.34187pt x 548.0475pt
+>
+File: /home/milena/Documentos/ES1/telas/sobre1.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/sobre1.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/sobre1.png  used on 
+input line 379.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 379--381
+ [][] 
+ []
+
+</home/milena/Documentos/ES1/telas/sobre2.png, id=81, 1028.34187pt x 548.0475pt
+>
+File: /home/milena/Documentos/ES1/telas/sobre2.png Graphic file (type png)
+<use /home/milena/Documentos/ES1/telas/sobre2.png>
+Package pdftex.def Info: /home/milena/Documentos/ES1/telas/sobre2.png  used on 
+input line 388.
+(pdftex.def)             Requested size: 433.62pt x 231.09825pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 388--390
+ [][] 
+ []
+
+
 AED: lastpage setting LastPage
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 400.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 167.
-[2]
+(babel)             in language  on input line 400.
+[3 <./cronograma.png (PNG copy)> </home/milena/Documentos/ES1/telas/cardapio1.p
+ng>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 167.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+ [4 </home/milena/Documentos/ES1/telas/cardapio2.png> </home/milena/Documentos/
+ES1/telas/cardapio3.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+ [5 </home/milena/Documentos/ES1/telas/cardapio4.png> </home/milena/Documentos/
+ES1/telas/cardapio5.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+ [6 </home/milena/Documentos/ES1/telas/cardapio6.png> </home/milena/Documentos/
+ES1/telas/cardapio7.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+[7 </home/milena/Documentos/ES1/telas/cardapio8.png> </home/milena/Documentos/E
+S1/telas/cardapio9.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+ [8 </home/milena/Documentos/ES1/telas/cardapio10.png> </home/milena/Documentos
+/ES1/telas/cardapio11.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+ [9 </home/milena/Documentos/ES1/telas/cardapio12.png> </home/milena/Documentos
+/ES1/telas/cardapio13.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+
+[10 </home/milena/Documentos/ES1/telas/cardapio14.png> </home/milena/Documentos
+/ES1/telas/contato1.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+ [11 </home/milena/Documentos/ES1/telas/contato2.png> </home/milena/Documentos/
+ES1/telas/inicio1.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+ [12 </home/milena/Documentos/ES1/telas/inicio2.png> </home/milena/Documentos/E
+S1/telas/localizacao1.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+
+[13 </home/milena/Documentos/ES1/telas/pedido1.png> </home/milena/Documentos/ES
+1/telas/pedido2.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+ [14 </home/milena/Documentos/ES1/telas/pedido3.png> </home/milena/Documentos/E
+S1/telas/sobre1.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+ [15 </home/milena/Documentos/ES1/telas/sobre2.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 400.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 400.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 400.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 400.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 400.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3195E58511F0516AFA29FDE8D32F6A74;220.
+(rerunfilecheck)             Checksum: 05E42CEF209AB46DD8FFB86FB6564982;321.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 400.
  ) 
 Here is how much of TeX's memory you used:
- 7474 strings out of 492982
- 105568 string characters out of 6134896
- 210090 words of memory out of 5000000
- 10920 multiletter control sequences out of 15000+600000
+ 7646 strings out of 492982
+ 111296 string characters out of 6134896
+ 213151 words of memory out of 5000000
+ 11025 multiletter control sequences out of 15000+600000
  9869 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,43p,221b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,43p,221b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (3 pages, 61951 bytes).
+Output written on main.pdf (16 pages, 7059588 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 225 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 179 words of extra memory for PDF output out of 10000 (max. 10000000)
 

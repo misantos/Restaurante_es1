@@ -3,3 +3,5 @@
 \contentsline {section}{\numberline {2}Requisitos Funcionais}{1}{section.2}
 \contentsline {section}{\numberline {3}Requisitos n\IeC {\~a}o Funcionais}{2}{section.3}
 \contentsline {section}{\numberline {4}Requisitos Inversos}{2}{section.4}
+\contentsline {section}{\numberline {5}Cronograma Macro}{2}{section.5}
+\contentsline {section}{\numberline {6}Print das telas}{3}{section.6}
